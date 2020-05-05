@@ -1,0 +1,30 @@
+{
+  "name": "sfb-unhinged",
+  "version": "1.0.0",
+  "description": "Wrapper CLI / Module that \"enhances\" Skill Flow Builder CLI and development controls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/real-ezTheDev/sfb-unhinged.git"
+  },
+  "keywords": [
+    "sfb",
+    "skill",
+    "alexa",
+    "voice",
+    "games",
+    "skill",
+    "flow",
+    "builder"
+  ],
+  "author": "Ezra Kim (@ezTheDev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/real-ezTheDev/sfb-unhinged/issues"
+  },
+  "homepage": "https://github.com/real-ezTheDev/sfb-unhinged#readme"
+}
